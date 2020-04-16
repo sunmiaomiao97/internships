@@ -12,3 +12,6 @@
 #### 第二周
 - [x] [2020年4月08日小记：个人第一次官网更新](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%888%E6%97%A5%E6%98%9F%E6%9C%9F%E4%B8%89%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%98%E7%BD%91%E6%9B%B4%E6%96%B0.pdf)
 - [x] [2020年4月10日小记：部门会议+第二周小总结](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8810%E6%97%A5%E6%98%9F%E6%9C%9F%E4%BA%94%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%83%A8%E9%97%A8%E4%BC%9A%E8%AE%AEand%E7%AC%AC%E4%BA%8C%E5%91%A8%E5%B0%8F%E6%80%BB%E7%BB%93.pdf)
+#### 第三周
+- [x] [2020年4月16日小记：H5](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8816%E6%97%A5%E6%98%9F%E6%9C%9F%E5%9B%9BH5%2B%E7%9F%AD%E8%A7%86%E9%A2%91%E6%96%B9%E6%A1%88.pdf)
+
