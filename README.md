@@ -3,7 +3,7 @@
 
 人生第一份正式的实习——湖北长江传媒数字出版有限公司产品中心部新媒体编辑运营
 
-### 传送门：
+### 实习小记传送门：
 #### 第一周3.30-4.03
 - [x] [2020年3月30日小记：学校带队老师视频会议](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B43%E6%9C%8830%E6%97%A5%E5%AD%A6%E6%A0%A1%E5%B8%A6%E9%98%9F%E8%80%81%E5%B8%88%E4%B8%BB%E6%8C%81%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE%E5%AE%89%E6%8E%92%E5%AE%9E%E4%B9%A0%E4%BA%8B%E9%A1%B9.pdf)
 - [x] [2020年3月31日小记：公司视频会议+个人指导老师安排任务](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B43%E6%9C%8831%E6%97%A5%E5%85%AC%E5%8F%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BC%9A%E8%AE%AE%2B%E5%AF%B9%E6%8E%A5%E8%80%81%E5%B8%88%E5%AE%89%E6%8E%92%E4%BB%BB%E5%8A%A1.pdf)
@@ -18,5 +18,9 @@
 #### 第四周4.20-4.24
 - [x] [2020年4月20日小记：H5制作器使用感受](https://github.com/sunmiaomiao97/internships/blob/master/%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9AH5%E5%88%B6%E4%BD%9C%E5%99%A8%E4%BD%BF%E7%94%A8%E6%84%9F%E5%8F%97.pdf)
 - [x] [2020年4月24日小记：第四周结束小结](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8824%E6%97%A5%EF%BC%9A%E5%AE%9E%E4%B9%A0%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%B0%8F%E7%BB%93.pdf)
+- [x] [2020年4月26日小记：第四周周末加班班交报告](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8824%E6%97%A5%EF%BC%9A%E5%AE%9E%E4%B9%A0%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%B0%8F%E7%BB%93.pdf)
+#### 第五周4.27-4.30
+- [x] [2020年4月29日小记：微信推送结束后的桌面+图书榜单](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8829%E6%97%A5%E6%98%9F%E6%9C%9F%E4%B8%89%EF%BC%9A%E4%B9%A6%E7%B1%8D%E9%94%80%E9%87%8F%E6%8A%A5%E5%91%8A%EF%BC%9F.pdf)
+
 
 
