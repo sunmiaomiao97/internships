@@ -18,8 +18,10 @@
 #### 第四周4.20-4.24
 - [x] [2020年4月20日小记：H5制作器使用感受](https://github.com/sunmiaomiao97/internships/blob/master/%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9AH5%E5%88%B6%E4%BD%9C%E5%99%A8%E4%BD%BF%E7%94%A8%E6%84%9F%E5%8F%97.pdf)
 - [x] [2020年4月24日小记：第四周结束小结](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8824%E6%97%A5%EF%BC%9A%E5%AE%9E%E4%B9%A0%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%B0%8F%E7%BB%93.pdf)
-- [x] [2020年4月26日小记：第四周周末加班班交报告](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8824%E6%97%A5%EF%BC%9A%E5%AE%9E%E4%B9%A0%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%B0%8F%E7%BB%93.pdf)
+- [x] [2020年4月26日：第四周周末加班班交视频渠道分析报告](https://github.com/sunmiaomiao97/internships/blob/master/%E8%A7%86%E9%A2%91%E7%B1%BB%E6%B8%A0%E9%81%93%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
+- [x] [2020年4月26日：第四周周末加班班交抖音大号总结](https://github.com/sunmiaomiao97/internships/blob/master/%E6%8A%96%E9%9F%B3%E5%A4%A7%E5%8F%B7%E6%B1%87%E6%80%BB%EF%BC%88%E6%AD%A6%E6%B1%89%E5%9C%B0%E5%8C%BA%EF%BC%89.pdf)
 #### 第五周4.27-4.30
+- [x] [2020年4月28日：晚上加班班交图书榜单分析报告](https://github.com/sunmiaomiao97/internships/blob/master/%E5%9B%BE%E4%B9%A6%E6%A6%9C%E5%8D%95%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
 - [x] [2020年4月29日小记：微信推送结束后的桌面+图书榜单](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8829%E6%97%A5%E6%98%9F%E6%9C%9F%E4%B8%89%EF%BC%9A%E4%B9%A6%E7%B1%8D%E9%94%80%E9%87%8F%E6%8A%A5%E5%91%8A%EF%BC%9F.pdf)
 
 
