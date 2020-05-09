@@ -1,4 +1,4 @@
-### internships我的实习经历及总结体会
+### internships我的实习经历及总结体会:smile:
 第一份正式的实习——新媒体运营实习生
 湖北长江传媒数字出版有限公司  产品中心部   
 #### 日常工作：
@@ -30,7 +30,7 @@
 - [x] [2020年4月30日：官网改版资料](https://github.com/sunmiaomiao97/internships/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E4%B9%A6%E9%A6%99%E8%8D%86%E6%A5%9A%E5%AE%98%E7%BD%91%E6%94%B9%E7%89%88%E8%B5%84%E6%96%99.pdf)
 - [x] [2020年4月30日第五周结束小结](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B44%E6%9C%8830%E6%97%A5%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%9A%E5%BE%88%E5%BF%99%E7%A2%8C%E7%9A%84%E4%B8%80%E5%91%A8.pdf)
 #### 第六周5.6-5.8
-- [x] [2020年5月8日第六周结束小结](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B45%E6%9C%888%E6%97%A5%E6%98%9F%E6%9C%9F%E4%BA%94%EF%BC%9A%E8%BF%99%E5%91%A8%E7%BB%93%E6%9D%9F%E7%9A%84%E5%A4%AA%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E4%BA%86.pdf)
+- [x] [2020年5月8日第六周结束 这周结束的太猝不及防了:dizzy_face:](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B45%E6%9C%888%E6%97%A5%E6%98%9F%E6%9C%9F%E4%BA%94%EF%BC%9A%E8%BF%99%E5%91%A8%E7%BB%93%E6%9D%9F%E7%9A%84%E5%A4%AA%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E4%BA%86.pdf)
 
 
 
