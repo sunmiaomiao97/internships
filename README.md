@@ -32,7 +32,9 @@
 #### 第六周5.6-5.8:heavy_check_mark:
 - [x] [2020年5月8日第六周结束 这周结束的太猝不及防了:dizzy_face:](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B45%E6%9C%888%E6%97%A5%E6%98%9F%E6%9C%9F%E4%BA%94%EF%BC%9A%E8%BF%99%E5%91%A8%E7%BB%93%E6%9D%9F%E7%9A%84%E5%A4%AA%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E4%BA%86.pdf)
 #### 第七周5.11-5.15:heavy_check_mark:
-- [x] [2020年5月8日第七周结束 这周结束了？](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B45%E6%9C%8816%E6%97%A5%E6%98%9F%E6%9C%9F%E5%85%AD%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BB%BB%E5%8A%A1%E4%BA%86%EF%BC%9F.pdf)
+- [x] [2020年5月12日第七周结束 这周结束了？](https://github.com/sunmiaomiao97/internships/blob/master/2020%E5%B9%B45%E6%9C%8816%E6%97%A5%E6%98%9F%E6%9C%9F%E5%85%AD%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BB%BB%E5%8A%A1%E4%BA%86%EF%BC%9F.pdf)
+#### 实习结束:heavy_check_mark:
+- [x] [2020年5月31日实习结束了](https://github.com/sunmiaomiao97/internships/blob/master/%E4%B8%AA%E4%BA%BA%E5%AE%9E%E4%B9%A0%E6%8A%A5%E5%91%8A%E5%AD%99%E8%8B%97%E8%8B%97.pdf)
 
 
 
